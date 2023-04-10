@@ -1,0 +1,4 @@
+# Kaggle workspace
+
+## Projects
+- Titanic

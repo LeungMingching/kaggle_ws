@@ -1,4 +1,4 @@
 # Kaggle workspace
 
 ## Projects
-- Titanic
+- [Titanic](./titanic)
